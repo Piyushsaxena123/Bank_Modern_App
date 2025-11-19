@@ -1,126 +1,127 @@
-# HooBank - Modern UI/UX website using React.js & Tailwind CSS
-A fully responsive, modern digital banking website built with React.js, Tailwind CSS, and a smooth component architecture.
-This UI focuses on clean layout, modern gradients, and a premium user experience inspired by leading fintech platforms.
+# HooBank - Modern UI/UX website using React.js & Tailwind CSS <br/>
 
-![HooBank](https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png)
+A fully responsive, modern digital banking website built with React.js, Tailwind CSS, and a smooth component architecture.<br/>
+This UI focuses on clean layout, modern gradients, and a premium user experience inspired by leading fintech platforms.<br/>
 
-👤 Author
+![HooBank](https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png)<br/>
 
-Developed by: Piyush Saxena
-🔗 GitHub: https://github.com/Piyushsaxena123
+## 👤 Author <br/>
 
-📘 Introduction
+Developed by: **Piyush Saxena**<br/>
+🔗 GitHub: https://github.com/Piyushsaxena123 <br/>
 
-HooBank is a modern banking landing page designed with a strong focus on:
+---
 
-✔ Smooth, minimal UI
-✔ Soft gradients & neumorphic styling
-✔ Responsive layouts for all devices
-✔ Clear visual hierarchy
-✔ Fast performance with React & Tailwind
+## 📘 Introduction <br/>
 
-This project is perfect for showcasing frontend skills and can be customized for any fintech or SaaS product.
+HooBank is a modern banking landing page designed with a strong focus on:<br/>
+✔ Smooth, minimal UI<br/>
+✔ Soft gradients & neumorphic styling<br/>
+✔ Responsive layouts for all devices<br/>
+✔ Clear visual hierarchy<br/>
+✔ Fast performance with React & Tailwind<br/>
 
-⚙️ Tech Stack Used
-🖥️ Frontend
+This project is perfect for showcasing frontend skills and can be customized for any fintech or SaaS product.<br/>
 
-React.js – Component-based UI rendering
+---
 
-Tailwind CSS – Utility-first styling with custom theme
+## ⚙️ Tech Stack Used <br/>
 
-Vite – Ultra-fast build tool
+### 🖥️ Frontend <br/>
+React.js – Component-based UI rendering<br/>
+Tailwind CSS – Utility-first styling with custom theme<br/>
+Vite – Ultra-fast build tool<br/>
+React Icons – Clean, modern icons for UI sections<br/>
 
-React Icons – Clean, modern icons for UI sections
+### 🎨 Design System <br/>
+Gradient palettes<br/>
+Mobile-first responsive design<br/>
+Reusable UI components<br/>
+Card-based content layout<br/>
 
-🎨 Design System
+---
 
-Gradient palettes
+## 🔥 Key Features <br/>
 
-Mobile-first responsive design
+### 🎯 Modern UI/UX <br/>
+Elegant gradient designs<br/>
+Polished sections with smooth spacing<br/>
+Premium typography & iconography<br/>
 
-Reusable UI components
+### 📱 Fully Responsive <br/>
+Works perfectly on phones, tablets, and laptops<br/>
+Adaptive grids and flex layouts<br/>
 
-Card-based content layout
+### 🧩 Reusable Components <br/>
+Hero section<br/>
+Stats bar<br/>
+Features/cards<br/>
+Testimonials<br/>
+CTA section<br/>
+Footer<br/>
 
-🔥 Key Features
-🎯 Modern UI/UX
+### 🎛️ Clean & Organized Code <br/>
+Component structure based on clarity<br/>
+Easy to extend or modify<br/>
+Tailwind utility classes for fast UI updates<br/>
 
-Elegant gradient designs
+---
 
-Polished sections with smooth spacing
+## 🖼️ Updated Icons & Visual Changes <br/>
 
-Premium typography & iconography
+To improve clarity and simplify the UI, icons were upgraded using modern, minimal styles from React Icons:<br/>
 
-📱 Fully Responsive
+🔹 FiCreditCard → For card/payment sections<br/>
+🔹 FiShield → For security features<br/>
+🔹 FiUsers → For customer stats<br/>
+🔹 FiTrendingUp → For growth metrics<br/>
 
-Works perfectly on phones, tablets, and laptops
+These icons blend better with the gradient UI and create a more professional feel.<br/>
 
-Adaptive grids and flex layouts
+---
 
-🧩 Reusable Components
+## 📂 Project Structure <br/>
 
-Hero section
-
-Stats bar
-
-Features/cards
-
-Testimonials
-
-CTA section
-
-Footer
-
-🎛️ Clean & Organized Code
-
-Component structure based on clarity
-
-Easy to extend or modify
-
-Tailwind utility classes for fast UI updates
-
-🖼️ Updated Icons & Visual Changes
-
-To improve clarity and simplify the UI, icons were upgraded using modern, minimal styles from React Icons:
-
-🔹 FiCreditCard → For card/payment sections
-🔹 FiShield → For security features
-🔹 FiUsers → For customer stats
-🔹 FiTrendingUp → For growth metrics
-
-These icons blend better with the gradient UI and create a more professional feel.
-
-📂 Project Structure
 HooBank/
 │── public/
 │── src/
-│   ├── components/
-│   ├── constants/
-│   ├── assets/
-│   ├── styles/
-│   ├── App.jsx
-│   └── main.jsx
+│ ├── components/
+│ ├── constants/
+│ ├── assets/
+│ ├── styles/
+│ ├── App.jsx
+│ └── main.jsx
 │── package.json
 │── README.md
 
-🛠️ How to Run Locally
+<br/>
+
+---
+
+## 🛠️ How to Run Locally <br/>
+
+```bash
 git clone https://github.com/Piyushsaxena123/HooBank.git
 cd HooBank
 npm install
 npm run dev
 
-🌟 What’s Special in This Version?
+<br/>
+🌟 What’s Special in This Version? <br/>
 
-✨ Upgraded icons → cleaner visual impact
-✨ More polished README layout
-✨ Better technology explanation
-✨ More professional project presentation
-✨ Improved section descriptions for GitHub
+✨ Upgraded icons → cleaner visual impact<br/>
+✨ More polished README layout<br/>
+✨ Better technology explanation<br/>
+✨ More professional project presentation<br/>
+✨ Improved section descriptions for GitHub<br/>
 
-🙌 Contributing
+🙌 Contributing <br/>
 
-Feel free to fork the repo, open issues, or submit pull requests to improve the UI.
+Feel free to fork the repo, open issues, or submit pull requests to improve the UI.<br/>
 
-⭐ Support
+⭐ Support <br/>
 
-If you like this project, don’t forget to star ⭐ the repo on GitHub — it really helps!
+If you like this project, don’t forget to star ⭐ the repo on GitHub — it really helps!<br/>
+
+
+---

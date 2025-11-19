@@ -82,17 +82,17 @@ These icons blend better with the gradient UI and create a more professional fee
 
 ## 📂 Project Structure <br/>
 
-HooBank/
-│── public/
-│── src/
-│ ├── components/
-│ ├── constants/
-│ ├── assets/
-│ ├── styles/
-│ ├── App.jsx
-│ └── main.jsx
-│── package.json
-│── README.md
+HooBank/<br/>
+│── public/<br/>
+│── src/<br/>
+│ ├── components/<br/>
+│ ├── constants/<br/>
+│ ├── assets/<br/>
+│ ├── styles/<br/>
+│ ├── App.jsx<br/>
+│ └── main.jsx<br/>
+│── package.json<br/>
+│── README.md<br/>
 
 <br/>
 

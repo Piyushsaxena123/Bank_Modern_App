@@ -1,7 +1,7 @@
 # HooBank - Modern UI/UX website using React.js & Tailwind CSS <br/>
 
 A fully responsive, modern digital banking website built with React.js, Tailwind CSS, and a smooth component architecture.<br/>
-This UI focuses on clean layout, modern gradients, and a premium user experience inspired by leading fintech platforms.<br/>
+This UI focuses on clean layout, modern gradients, and a premium user experience inspired by leading fintech platforms and Deployed<br/>
 
 ![HooBank](https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png)<br/>
 
